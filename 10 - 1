@@ -1,0 +1,5 @@
+levels = 10
+
+while levels != 0:
+    print(levels)
+    levels = levels - 1
